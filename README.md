@@ -1,4 +1,4 @@
-# Hotel Bokking Analysis
+# Hotel Booking Analysis
 
 Data Cleaning
  This step involved rectifying issues such as missing values, inconsistencies, and inaccuracies in the dataset to ensure it is clean and ready for analysis.
